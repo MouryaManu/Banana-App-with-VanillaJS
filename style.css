@@ -1,0 +1,10 @@
+textarea{
+    width: 80%;
+    height: 10rem;
+    margin: 2rem 0rem;
+    opacity: 1;
+}
+#click{
+    color: red;
+    display: block;
+}
